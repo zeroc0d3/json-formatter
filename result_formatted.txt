@@ -1,0 +1,7 @@
+{
+	"access_token": "m+jV4ga2GIVFGMB40FGnfuCFF8rO/GCxcDcmTehIgV7jBFgfyQFIxoiya9r3zHrrczp+94+3SjPo8nNf+DKRMA==",
+	"token_type": "mac",
+	"secret": "Kq9naWIRnvlKF8PDMI74Nb/jtJmmivn/f+iPUDuB2FPzfXIJnbg6jv3nDgoqmgWumfiVF7XEVPqFCmMxYr8YDQ==",
+	"algorithm": "hmac-sha-256",
+	"expires_in": 3599
+}
